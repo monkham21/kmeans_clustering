@@ -8,7 +8,7 @@ with open('kmeans_model.pkl','rb') as f:
     
     st.set_page_config(page_title="k-Means Clustering App", layout="centered")
     
-    st.title(" k-Means Clustering Visualizer by Nway Nway Kay Khaing")
+    st.title(" k-Means Clustering Visualizer by Nang Mon Kham")
     
    
     from sklearn.datasets import make_blobs
